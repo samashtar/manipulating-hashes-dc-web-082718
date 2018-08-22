@@ -7,7 +7,8 @@ def second_challenge
   }
 
 grocerylist = groceries.values
-grocerylist.join
+
+grocerylist
 
   
 
