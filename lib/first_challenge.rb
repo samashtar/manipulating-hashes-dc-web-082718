@@ -1,4 +1,4 @@
-
+def first_challenge
   contacts = {
     "Jon Snow" => {
       name: "Jon",
@@ -21,7 +21,7 @@ def remove_strawberry(contacts)
       end
     end
   end
-
+end
 
   #remember to return your newly altered contacts hash!
   contacts
