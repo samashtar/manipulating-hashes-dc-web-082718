@@ -6,7 +6,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-grocerylist = dairy.values + vegetable.values + meat.values + grains.values
+grocerylist = groceries.values
 
 grocerylist
 
