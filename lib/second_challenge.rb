@@ -15,7 +15,5 @@ def second_challenge
   arr
    
  
-end
-  
 
 end
